@@ -1,1 +1,2 @@
-# Sistemas-de-controle-Lab
+# Sistemas de controle - Laboratório
+
